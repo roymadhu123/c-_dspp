@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620381460 source:c:\users\dell\desktop\image_wahiyaat\image\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
